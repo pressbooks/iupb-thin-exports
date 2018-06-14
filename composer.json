@@ -1,0 +1,15 @@
+{
+    "name": "iueds/iupb-thin-exports",
+    "description": "Customized version of Lumen Learning's Thin Common Cartridge tool for Pressbooks. ",
+    "homepage": "https://github.com/IUeDS/iupb-thin-exports",
+    "authors": [
+        {
+            "name": "Indiana University UITS eLearning Design and Services",
+            "homepage": "https://teachingonline.iu.edu"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "^1.2"
+    }
+}
